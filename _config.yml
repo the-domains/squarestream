@@ -1,6 +1,6 @@
 name: squarestream
 favicon: null
-layout_spectrum: 0.37297657574526966
+layout_spectrum: 1
 typography_spectrum: 0.4240313090849668
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#bfbfbf'
     - '#f98105'
     - '#454545'
-  brandStrength: 0.34003754728473723
+  brandStrength: 0.25
   lightness: 0.4289598702453077
   saturation: 0.39095682045444846
   rhythmicContrast: 0.8655380494892597
