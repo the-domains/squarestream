@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[squarestream]]></title>
         <description><![CDATA[squarestream]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/squarestream/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 21:18:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 21:23:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/squarestream/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefined562b410f-3e83-48b7-a2ff-3732e9c8ede6/index.html</link>
+            <link>https://thegrid.ai/squarestream/562b410f-3e83-48b7-a2ff-3732e9c8ede6/index.html</link>
             <guid isPermaLink="false">562b410f-3e83-48b7-a2ff-3732e9c8ede6</guid>
-            <pubDate>Wed, 09 Mar 2016 21:03:41 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 21:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
