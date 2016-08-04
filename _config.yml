@@ -1,28 +1,40 @@
-name: squarestream
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4240313090849668
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: squarestream
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3909568204544485
+  brandStrength: 0.25
+  rhythmicContrast: 0.8655380494892597
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#bfbfbf'
     - '#f98105'
     - '#454545'
-  brandStrength: 0.25
   lightness: 0.4289598702453077
-  saturation: 0.39095682045444846
-  rhythmicContrast: 0.8655380494892597
-purpose: []
+typography_spectrum: 0.4240313090849668
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
