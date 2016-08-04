@@ -1,4 +1,4 @@
-layout_spectrum: 0
+name: squarestream
 opengraph:
   image: null
   type: null
@@ -9,13 +9,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0
 color:
   saturation: 0.3909568204544485
   brandStrength: 0.25
@@ -27,14 +27,14 @@ color:
     - '#f98105'
     - '#454545'
   lightness: 0.4289598702453077
-typography_spectrum: 0.516129
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+typography_spectrum: 0.516129
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: squarestream
