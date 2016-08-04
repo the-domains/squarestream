@@ -1,4 +1,8 @@
-name: squarestream
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -15,26 +19,22 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
+purpose: []
 color:
-  saturation: 0.3909568204544485
+  saturation: 1
   brandStrength: 0.25
-  rhythmicContrast: 0.8655380494892597
+  lightness: 0
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#bfbfbf'
     - '#f98105'
     - '#454545'
-  lightness: 0.4289598702453077
-purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+  rhythmicContrast: 0
 typography_spectrum: 0.516129
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+name: squarestream
