@@ -1,5 +1,4 @@
-favicon: null
-name: squarestream
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -28,13 +27,14 @@ color:
     - '#f98105'
     - '#454545'
   lightness: 0.4289598702453077
-typography_spectrum: 0.4240313090849668
+typography_spectrum: 0.516129
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: squarestream
